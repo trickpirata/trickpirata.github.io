@@ -1,2 +1,2 @@
-# trick.github.io
+# trickpriata.github.io
 Jekyll powered portfolio
