@@ -1,0 +1,56 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: who are you and what do you do
+    entries:
+      - title: i am patrick joseph gorospe, nice to meet you
+      - title: i do ios development for about 8 years
+
+  - title: show me some of the apps you made
+    entries:
+      - title: Qantas Airways
+        url: https://apps.apple.com/au/app/qantas-airways/id640437525
+      - title: Virgin Mobile Mexico
+        url: https://apps.apple.com/us/app/virgin-mobile-mexico/id910973884
+      - title: Mirror Vision Golf
+        url: https://apps.apple.com/au/app/mirror-vision/id1381051713
+      - title: Megaworld Lifestyle Malls
+        url: https://apps.apple.com/ph/app/megaworld-lifestyle-malls/id1519214744
+
+  - title: how do we connect
+    entries:
+      - title: LinkedIn
+        url: https://linkedin.com/in/trickgp
+      - title: Twitter
+        url: https://twitter.com/trickgp
+  - title: is this really your website
+    entries:
+      - title: yes. 
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # - title: rss
+  #   url: feed.xml
+  
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
