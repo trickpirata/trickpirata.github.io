@@ -29,7 +29,8 @@ github_username:  trickpirata
 
 favicon: "logo.png"
 
-# Build settings
+# Build settings 
+# use theme when running locally
 #theme: no-style-please
 remote_theme: riggraz/no-style-please
 
@@ -53,3 +54,6 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-2LHQMKSHHN
