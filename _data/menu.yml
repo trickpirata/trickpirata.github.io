@@ -5,11 +5,11 @@ entries:
   - title: who are you and what do you do
     entries:
       - title: i am patrick joseph gorospe, nice to meet you.
-      - title: i do ios development for about 8 years.
+      - title: i do ios development for about 10 years.
 
   - title: what is your tech stack
     entries:
-      - title: ios, android, swift, objective-c, combine framework, rxswift, unity 3d, node js
+      - title: ios, android, swift, objective-c, swiftui, combine framework, rxswift, unity 3d, node js
 
   - title: can i know more about you
     entries:
@@ -19,6 +19,8 @@ entries:
     entries:
       - title: qantas airways
         url: https://apps.apple.com/au/app/qantas-airways/id640437525
+      - title: mWellMD
+        url: https://apps.apple.com/us/app/mwellmd/id1642864202
       - title: virgin mobile mexico
         url: https://apps.apple.com/us/app/virgin-mobile-mexico/id910973884
       - title: mirror vision golf
