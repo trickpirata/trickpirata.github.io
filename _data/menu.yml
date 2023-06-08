@@ -55,14 +55,9 @@ entries:
       - title: sure
         url: ./CV - Patrick Joseph Gorospe.pdf
   
-  - title: view academic portfolio
-    entries:
-      - title: practicum academic portfolio
-        url: ./Gorospe_Patrick_Joseph - final report.pdf
-
   - title: is this really your website
     entries:
-      - title: yes. 
+      - title: yes.
   # - title: all posts
   #   post_list:
   #     limit: 5
