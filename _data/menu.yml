@@ -17,16 +17,18 @@ entries:
 
   - title: show me some of the apps you made
     entries:
-      - title: qantas airways
+      - title: Qantas Airways
         url: https://apps.apple.com/au/app/qantas-airways/id640437525
+      - title: mWell PH 24/7 Doctor Consult
+        url: https://apps.apple.com/ph/app/mwell-ph-24-7-doctor-consult/id1540729485
       - title: mWellMD
         url: https://apps.apple.com/us/app/mwellmd/id1642864202
-      - title: virgin mobile mexico
+      - title: WeScope Capture
+        url: https://apps.apple.com/us/app/wescope-capture/id6470383299
+      - title: Virgin Mobile Mexico
         url: https://apps.apple.com/us/app/virgin-mobile-mexico/id910973884
       - title: mirror vision golf
         url: https://apps.apple.com/au/app/mirror-vision/id1381051713
-      - title: megaworld lifestyle malls
-        url: https://apps.apple.com/ph/app/megaworld-lifestyle-malls/id1519214744
         
   - title: i want to see more
     entries:
